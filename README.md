@@ -1,4 +1,4 @@
-# lua-quik-bots
+lua-quik-bots
 Trading bots and indicators for QUIK
 
 ## spread_indicator 
